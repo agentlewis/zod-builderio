@@ -1,0 +1,23 @@
+{
+  "name": "zod-builderio",
+  "version": "0.0.1",
+  "description": "Generate Builder.io menu schemas from zod schemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agentlewis/zod-builderio.git"
+  },
+  "keywords": [
+    "zod",
+    "builder.io"
+  ],
+  "author": "agentlewis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agentlewis/zod-builderio/issues"
+  },
+  "homepage": "https://github.com/agentlewis/zod-builderio#readme"
+}
